@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\litmu\\source\\repos\\Leo_Dinh_assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A1728-8021-4898-A925-9EAA34D8E5D7}|Leo_Dinh_assignment2\\Leo_Dinh_assignment2.vcxproj|C:\\Users\\litmu\\source\\repos\\Leo_Dinh_assignment2\\Leo_Dinh_assignment2\\Leo_Dinh_assignment2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE0A1728-8021-4898-A925-9EAA34D8E5D7}|Leo_Dinh_assignment2\\Leo_Dinh_assignment2.vcxproj|solutionrelative:Leo_Dinh_assignment2\\Leo_Dinh_assignment2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leo_Dinh_assignment2.cpp",
+              "DocumentMoniker": "C:\\Users\\litmu\\source\\repos\\Leo_Dinh_assignment2\\Leo_Dinh_assignment2\\Leo_Dinh_assignment2.cpp",
+              "RelativeDocumentMoniker": "Leo_Dinh_assignment2\\Leo_Dinh_assignment2.cpp",
+              "ToolTip": "C:\\Users\\litmu\\source\\repos\\Leo_Dinh_assignment2\\Leo_Dinh_assignment2\\Leo_Dinh_assignment2.cpp",
+              "RelativeToolTip": "Leo_Dinh_assignment2\\Leo_Dinh_assignment2.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-14T03:52:18.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
